@@ -1,7 +1,18 @@
-# stockmanagement
-This is a stock management software to maintain and monitor the current stocks.
+# Stock Management
+Stock management software to maintain and monitor the current stocks.
 
-It looks like this:
+The different pages are:
+1. Home: Start page
+2. Users: Add user, Update user, Clear the written data 
+3. Stocks: Add stock, Update stock, delete stock and clear the written data.
+4. Purchase: Purchase the stock with total amount calculated.
+5. Sales: Generate report for the stocks for previous months.
+
+
+Fun part: Beautiful UI, 
+
+Challenges: Adding different panels over one another and changing when clicked.
+
 
 
 Home 
